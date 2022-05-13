@@ -3,8 +3,8 @@
 //or copy the codes/script,
 //pls give credit
 //no credit? i will take action immediately
-//© 2022 Xeon Bot Inc. Cheems Bot MD
-//Thank you to Lord Buddha, Family and Myself
+//© 2022 PTRN Bot Inc. PTRN BOT
+//Thank you
 //════════════════════════════//
 require('./settings')
 const { BufferJSON, WA_DEFAULT_EPHEMERAL, generateWAMessageFromContent, proto, generateWAMessageContent, generateWAMessage, prepareWAMessageMedia, areJidsSameUser, getContentType } = require('@adiwajshing/baileys')
